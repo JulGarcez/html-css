@@ -1,2 +1,3 @@
 # html-css
- Focado na faculdade ou testes pessoais.
+
+ Trabalhos da faculdade e testes pessoais. Estou testando algumas ferramentas como base de testes para projetos futuros.
